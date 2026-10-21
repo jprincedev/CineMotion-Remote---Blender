@@ -1,0 +1,6 @@
+{
+  "name": "CineMotion Remote",
+  "description": "6DoF camera controller for Blender using ARCore real-time motion tracking and WebSocket streaming",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
